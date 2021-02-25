@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="button_to_switch_on_switch_off_flashlight">Button to switch on/ switch off flashlight</string>
+</resources>
